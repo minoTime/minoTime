@@ -1,4 +1,4 @@
-# carcognition
+# Research_Trends
 
 ## Learning Goals
 
